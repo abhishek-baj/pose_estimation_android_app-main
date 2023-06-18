@@ -1,4 +1,4 @@
-# pose_estimation_android_app-main
+
 # Pose Estimation android app
 
 ## Introduction
